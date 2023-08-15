@@ -1,0 +1,5 @@
+php_value error_reporting -1
+php_value display_errors on
+
+SetEnv PHP_VALUE "error_reporting=-1"
+SetEnv PHP_VALUE "display_errors=on"
